@@ -8,4 +8,4 @@ DB Name: drupal
 UserName: root
 Password:
 
-SQL File: drupal_sql.txt
+SQL File: drupal_sql.sql
