@@ -1,0 +1,11 @@
+Admin credentails
+----------------------
+UserName: admin
+Password: adm1n
+
+DB Details
+DB Name: drupal
+UserName: root
+Password:
+
+SQL File: drupal_sql.txt
